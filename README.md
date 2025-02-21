@@ -27,7 +27,7 @@ Basic project outline with command line interface to begin. The user will be ask
 **Milestone 2: NFT Creation**  
 From the wallet provided, the application will mint a unique NFT and pass ownership to the bearer of the cryptocurrency wallet. A QR code is then generated that directly links to display the NFT and corresponding metadata.  
 
-**Milestone 3: Crypographic Signing**  
+**Milestone 3: Cryptographic Signing**  
 I will be the acting certificate authority for all transactions and provide the wallet bearer with a verifiable public key which confirms the wallet balance at the time of minting.
 <br />
 <br />
