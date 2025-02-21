@@ -3,7 +3,7 @@
 *Overview*
 
 The purpose of this project is to gain experience with emerging technologies related to cybersecurity, cryptocurrency and my own interest.
-The project integrates blockchain technology with cryptographic principles to verify Bitcoin wallet balances, generate NFT metada, and verify the information using myself as the certificate authority.
+The project integrates blockchain technology with cryptographic principles to verify Bitcoin wallet balances, generate NFT metadata, and verify the information using myself as the certificate authority.
 <br />
 <br />
 
