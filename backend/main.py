@@ -1,4 +1,5 @@
 from core.userprofile import *
+from core.walletverify import *
 
 #Imaginary home page
 print("Welcome to the CryptoCryptography Project!\n")
@@ -9,4 +10,8 @@ print("Welcome to the CryptoCryptography Project!\n")
 #
 #
 #
+
+
+# Step 2: Check bitcoin account balance based on wallet address
+wallet_address = input("What is your wallet address")
 
