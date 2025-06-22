@@ -1,2 +1,3 @@
 .env
-cryptography.py
+crypto_keys.py
+private_key.pem
